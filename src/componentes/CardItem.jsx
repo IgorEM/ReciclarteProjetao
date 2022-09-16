@@ -4,7 +4,9 @@ import './CardItem.scss'
 
 export default props  => 
     <div className="caixa">
-        <div className='imagem'> </div>
+        <div className='imagem'> 
+        <img src= {props.imagem}  />
+        </div>
         <div className="descricao">
             <h1 className='tituloMadereira'> {props.titulo}</h1>
             <div className='tipo_dist'>            
