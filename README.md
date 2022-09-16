@@ -1,5 +1,6 @@
 # Home Artesao:
-![image](https://user-images.githubusercontent.com/50914198/190726160-ec96ad99-049d-4fdf-9864-e43bc0a470bc.png)
+![image](https://user-images.githubusercontent.com/50914198/190789894-9ece2111-8776-429f-9752-b59e7a15dd18.png)
+
 
 
 # Getting Started with Create React App
