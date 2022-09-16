@@ -1,3 +1,6 @@
+# Home Artesao 1.0 :
+![image](https://user-images.githubusercontent.com/50914198/190712053-9eaac18a-6a76-442d-bad4-f866191b9369.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
